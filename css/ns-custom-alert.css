@@ -1,0 +1,86 @@
+#ns-custom-layer-box {
+		display: none;
+		position: fixed;
+		width: 100%;
+		height: 100%;
+		top: 0;
+		left: 0;
+		z-index: 999;
+		background: rgba(30, 216, 86, 0.3);
+	}
+	#ns-wcapb-container {
+		
+		position: relative;
+		max-height: 500px;
+		
+		border-radius: 5px;
+		overflow-y: auto;
+		
+
+	}
+	#ns-wcapb-container2 {
+		display: none;
+		position: absolute;
+		padding: 20px;
+		background: rgba(4, 102, 75, 1);
+		border-width: 2px;
+		border-color: #51c10b;
+		border-style: solid;
+		color: #000;
+		z-index: 9999;
+		max-width: 75%;
+		min-width: 400px;
+		min-height: 200px;
+		max-height: 90%;
+		border-radius: 5px;
+		
+
+	}
+	#ns-apb-close {
+		border-radius: 50px;
+		padding: 0 8px;
+		float: right;
+		margin-top: -26px;
+		margin-right: -26px;
+		background: #fff;
+		cursor: pointer;
+		font-weight: bold;
+		z-index: 1000;
+	}
+	.ns-stop-scrolling{
+		overflow: hidden;
+	}
+	@media (max-width: 1024px) {
+		#ns-wcapb-container {
+			min-width: auto;
+			height: fit-content;
+		}
+		.ns_mp_single_product {
+			width: calc(100% - 30px);
+			align-content: center;
+			margin-bottom: 30px;
+		}
+		.ns_mp_sp_img {
+			width: 50%;
+			margin-left: 25%;
+			margin-right: 25%;
+		}
+		.ns_mp_text, .ns_mp_sp_price, .ns_mp_sp_title{
+			text-align: center;
+		}
+	}
+	@media (max-width: 768px) {
+		
+		#ns-wcapb-container2 {
+			
+			width: 90%;
+			min-width: 100px;
+			min-height: 200px;
+			max-height: 90%;
+			border-radius: 5px;
+		}
+		#ns-wcapb-container {
+			max-height: 300px;
+		}
+	}
+	

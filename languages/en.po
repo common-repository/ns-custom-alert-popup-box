@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-02-26 15:31+0100\n"
+"PO-Revision-Date: 2019-02-26 15:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ns-admin-options/inc.php:21
+msgid ""
+"- Set cookie expire date<br/>\n"
+"- Choose full width layer background color<br/>\n"
+"- Choose full width layer opacity<br/>\n"
+"- Set popup background color<br/>\n"
+"- Set popup border width and color<br/>\n"
+"- Set popup content padding"
+msgstr ""
+"- Set cookie expire date<br/>\n"
+"- Choose full width layer background color<br/>\n"
+"- Choose full width layer opacity<br/>\n"
+"- Set popup background color<br/>\n"
+"- Set popup border width and color<br/>\n"
+"- Set popup content padding"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:30
+msgid "How to use"
+msgstr "How to use"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:35
+msgid "Premium features"
+msgstr "Premium features"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:42
+msgid ""
+"Go Premium, get more features and support:</h2><br><br>\n"
+"\t\t\t\tIf you upgrade your plugin you will get one year of free updates and "
+"support\n"
+"\t\t\t\tthrough our website available 24h/24h. Upgrade and you'll have the "
+"advantage\n"
+"\t\t\t\tof additional features of the premium version."
+msgstr ""
+"Go Premium, get more features and support:</h2><br><br>\n"
+"\t\t\t\tIf you upgrade your plugin you will get one year of free updates and "
+"support\n"
+"\t\t\t\tthrough our website available 24h/24h. Upgrade and you'll have the "
+"advantage\n"
+"\t\t\t\tof additional features of the premium version."
+
+#: ns-admin-options/ns_admin_option_dashboard.php:46
+msgid "Go Premium Now"
+msgstr "Go Premium Now"
+
+#: ns-admin-options/ns_admin_option_dashboard.php:58
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:8
+msgid "PREMIUM VERSION"
+msgstr "PREMIUM VERSION"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:11
+msgid "ALL FREE VERSION FEATURES and"
+msgstr "ALL FREE VERSION FEATURES and"
+
+#: ns-admin-options/ns_settings_box_pro_version.php:14
+msgid "UPGRADE!"
+msgstr "UPGRADE!"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:8
+msgid "JOIN NS CLUB"
+msgstr "JOIN NS CLUB"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:12
+msgid "– Instant access to all plugins and all themes"
+msgstr "– Instant access to all plugins and all themes"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:13
+msgid "– All future plugins and themes are included"
+msgstr "– All future plugins and themes are included"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:14
+msgid "– Unlimited license for all NS products"
+msgstr "– Unlimited license for all NS products"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:15
+msgid "– Unlimited download for each products"
+msgstr "– Unlimited download for each products"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:16
+msgid "– Super fast support"
+msgstr "– Super fast support"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:17
+msgid "– Regular update"
+msgstr "– Regular update"
+
+#: ns-admin-options/ns_settings_box_theme_promo.php:20
+msgid "DISCOVER MORE"
+msgstr "DISCOVER MORE"
+
+#: ns-wordpress-custom-alert-popup-box.php:100
+msgid "Premium Version"
+msgstr "Premium Version"
